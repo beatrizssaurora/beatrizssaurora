@@ -3,8 +3,7 @@
 **`Desenvolvedora Júnior | Apaixonada por Tecnologia e Inovação`**  
 
 Olá! 👋  
-Me chamo **Beatriz Santos**, tenho 30 anos e sou formada em **Engenharia de Bioprocessos e Biotecnologia** pela **Universidade Estadual Paulista "Júlio de Mesquita Filho" - UNESP**. Atualmente, estou em transição de carreira para a área de tecnologia, com foco em **desenvolvimento backend** e **análise de dados**.  
-
+Me chamo **Beatriz Santos**, sou formada em **Engenharia de Bioprocessos e Biotecnologia** pela **Universidade Estadual Paulista "Júlio de Mesquita Filho" - UNESP**. Atualmente, estou em transição de carreira para a área de tecnologia, com foco em **desenvolvimento backend** e **análise de dados**. 
 Participei de bootcamps e cursos intensivos, como os oferecidos pela **ADA TECH** e **ALURA**, para aprimorar minhas habilidades em programação e análise de dados. Sou apaixonada por aprender e compartilhar conhecimento, e você pode acompanhar minha jornada no [LinkedIn](https://www.linkedin.com/in/beatrizssaurora).  
 
 ---
