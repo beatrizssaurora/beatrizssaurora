@@ -72,6 +72,36 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
       width="30px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
   />
+  <img 
+      alt="Hugo" 
+      title="Hugo" 
+      width="30px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hugo/hugo-original.svg" 
+  />  
+  <img 
+      alt="Netlify" 
+      title="Netlify" 
+      width="30px" 
+      src="https://img.icons8.com/?size=100&id=sBo1RJ3rjbje&format=png&color=000000"
+  />  
+  <img 
+      alt="Visual Studio" 
+      title="Visual Studio" 
+      width="30px" 
+      src="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000"
+  />
+  <img 
+      alt="Intellij Idea" 
+      title="Intellij Idea" 
+      width="30px" 
+      src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000"
+  />
+  <img 
+      alt="Node.js" 
+      title="Node.js" 
+      width="50px" 
+      src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" 
+  />  
 </div>  
 
 <br/>
