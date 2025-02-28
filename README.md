@@ -47,9 +47,8 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
       alt="Hugo" 
       title="Hugo" 
       width="30px" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg"
-   />
-          
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg"
+   />         
 </div>  
 
 <br/>
