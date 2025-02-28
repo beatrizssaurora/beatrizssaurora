@@ -43,6 +43,13 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
       width="30px" 
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
   />
+  <img 
+      alt="Hugo" 
+      title="Hugo" 
+      width="30px" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg"
+   />
+          
 </div>  
 
 <br/>
