@@ -82,13 +82,23 @@ Atualmente, estou focada em:
 
 ---
 
-## 📫 **Vamos conversar?**  
+## 📲🗯️ **Vamos conversar?**  
 
 Se você quer trocar ideias, colaborar em projetos ou apenas bater um papo sobre tecnologia, sinta-se à vontade para entrar em contato:  
-- **LinkedIn:** [Beatriz Santos](https://www.linkedin.com/in/beatrizssaurora)  
-- **E-mail:** beatrizssaurora@gmail.com  
+
+ <a href="https://www.linkedin.com/in/beatrizssaurora/">
+  <img width="42px" alt="LinkedIn" title="LinkedIn" src="images/icons8-linkedin-64.png">
+</a>
+<a href="mailto:beatrizssaurora@gmail.com" title="beatrizssaurora@gmail.com">
+  <img width="42px" src="images/icons8-gmail-64.png" alt="Ícone do Gmail">
+</a>
+<a href="beatriz02627" alt="Usuário do Discord" title="beatriz02627">
+  <img width="42px" src="images/icons8-logo-discord-64.png" alt="Ícone do Discord">
+</a>
+<a href="https://my-website-beatriz-santos.netlify.app/" alt="site" title="Portfólio">
+  <img width="42px" src="images/icons8-abrir-no-navegador-64.png" alt="Portfólio">
+</a>
 
 ---
-
 ✨ **Obrigada por visitar meu perfil!** ✨  
 
