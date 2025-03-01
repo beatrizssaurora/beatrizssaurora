@@ -1,16 +1,16 @@
 
 # 👩🏾‍💻 Beatriz Santos  
-**`Desenvolvedora Júnior | Apaixonada por Tecnologia e Inovação`**  
+**`Junior Developer | Passionate about Technology and Innovation`**  
 
-Olá! 👋  
-Me chamo **Beatriz Santos**, sou formada em **Engenharia de Bioprocessos e Biotecnologia** pela **Universidade Estadual Paulista "Júlio de Mesquita Filho" - UNESP**. Atualmente, estou em transição de carreira para a área de tecnologia, com foco em **desenvolvimento backend** e **análise de dados**. 
-Participei de bootcamps e cursos intensivos, como os oferecidos pela **ADA TECH** e **ALURA**, para aprimorar minhas habilidades em programação e análise de dados. Sou apaixonada por aprender e compartilhar conhecimento, e você pode acompanhar minha jornada no [LinkedIn](https://www.linkedin.com/in/beatrizssaurora).  
+Hello! 👋
+
+My name is Beatriz Santos, I have a degree in Bioprocess Engineering and Biotechnology from the São Paulo State University "Júlio de Mesquita Filho" - UNESP. I am currently transitioning my career to the technology area, focusing on backend development and data analysis. I have participated in bootcamps and intensive courses, such as those offered by ADA TECH and ALURA, to improve my skills in programming and data analysis. I am passionate about learning and sharing knowledge, and you can follow my journey on [LinkedIn](https://www.linkedin.com/in/beatrizssaurora).  
 
 ---
 
-## 🛠️ **Linguagens e Tecnologias**  
+## 🛠️ **Languages ​​and Technologies**
 
-Aqui estão algumas das tecnologias com as quais tenho trabalhado:  
+Here are some of the technologies I have been working with:
 
 <h3>👨‍💻 Programming and Markup Languages</h3>
  <p>
@@ -99,23 +99,23 @@ Acompanhe meu progresso e contribuições:
 
 ---
 
-## 🌱 **O que estou aprendendo agora?**  
+## 🌱 **What am I learning now?**
 
-Atualmente, estou focada em:  
-- Aprofundar meus conhecimentos em **Python** para análise de dados e automação.  
-- Explorar frameworks e ferramentas para desenvolvimento backend.  
-- Melhorar minhas habilidades em **Git** e colaboração em equipe.  
-- Dominar SQL com foco em MySQL Server da Oracle para gerenciamento e manipulação de bancos de dados.
+Currently, I am focused on:
+- Deepening my knowledge of **Python** for data analysis and automation.
+- Exploring frameworks and tools for backend development.
+- Improving my skills in **Git** and team collaboration.
+- Mastering **SQL** with a focus on **Oracle's MySQL Server** for database management and manipulation.
 
--  Explorar a Oracle Cloud Infrastructure (OCI) para soluções de nuvem e infraestrutura escalável.
+- Exploring **Oracle Cloud Infrastructure (OCI)** for cloud solutions and scalable infrastructure.
 
-- Estudar IA Generativa e suas aplicações em projetos inovadores.
+- Studying **Generative AI** and its applications in innovative projects.
 
 ---
 
-## 📲🗯️ **Vamos conversar?**  
+## 📲🗯️ **Let's talk?**
 
-Se você quer trocar ideias, colaborar em projetos ou apenas bater um papo sobre tecnologia, sinta-se à vontade para entrar em contato:  
+If you want to exchange ideas, collaborate on projects or just chat about technology, feel free to get in touch:
 
  <a href="https://www.linkedin.com/in/beatrizssaurora/">
   <img width="42px" alt="LinkedIn" title="LinkedIn" src="images/icons8-linkedin-64.png">
@@ -131,5 +131,5 @@ Se você quer trocar ideias, colaborar em projetos ou apenas bater um papo sobre
 </a>
 
 ---
-✨ **Obrigada por visitar meu perfil!** ✨  
+✨ **Thank you for visiting my profile!** ✨  
 
