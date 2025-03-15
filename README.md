@@ -8,7 +8,7 @@ Meu nome é Beatriz Santos, sou formada em Engenharia de Bioprocessos e Biotecno
 
 ---
 
-## 🛠️ **Linguagens ​​and Tecnologias**
+## 🛠️ **Linguagens ​​e Tecnologias**
 
 Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
@@ -46,7 +46,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
   </p>
 
-<h3>💻 Software and Ferramentas</h3>
+<h3>💻 Software e Ferramentas</h3>
 
   <p>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
