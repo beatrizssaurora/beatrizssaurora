@@ -104,15 +104,15 @@ Atualmente estou focada em:
 
 - Aprofundar meu conhecimento em **Python**.
   
-- Explorando estruturas e ferramentas para desenvolvimento de backend.
+- Explorar estruturas e ferramentas para desenvolvimento de backend.
   
 - Melhorar minhas habilidades em **Git** e colaboração em equipe.
   
 - Domínio de **SQL** com foco no **MySQL Server da Oracle** para gerenciamento e manipulação de banco de dados.
 
-- Explorando a **Oracle Cloud Infrastructure (OCI)** para soluções de nuvem e infraestrutura escalável.
+- Explorar a **Oracle Cloud Infrastructure (OCI)** para soluções de nuvem e infraestrutura escalável.
 
-- Estudando **IA Generativa** e suas aplicações em projetos inovadores.
+- Estudar **IA Generativa** e suas aplicações em projetos inovadores.
 
 ---
 
